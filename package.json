@@ -1,0 +1,25 @@
+{
+  "name": "iterducers",
+  "version": "0.0.1",
+  "description": "Transducers based on iterators",
+  "main": "lib/index.js",
+  "browser": "iterducers.js",
+  "scripts": {
+    "test": "mocha specs.js"
+  },
+  "repository": "alexeyraspopov/iterducers",
+  "keywords": [
+    "iterator",
+    "generator",
+    "transducers"
+  ],
+  "author": "Alexey Raspopov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexeyraspopov/iterducers/issues"
+  },
+  "homepage": "https://github.com/alexeyraspopov/iterducers#readme",
+  "devDependencies": {
+    "mocha": "~2.4.5"
+  }
+}
